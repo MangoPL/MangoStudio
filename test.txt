@@ -1,0 +1,20 @@
+[youtube] J33ZarvTTVo: Downloading webpage
+[info] Available formats for J33ZarvTTVo:
+format code  extension  resolution note
+249          webm       audio only tiny   54k , webm_dash container, opus @ 54k (48000Hz), 1.42MiB
+250          webm       audio only tiny   71k , webm_dash container, opus @ 71k (48000Hz), 1.85MiB
+140          m4a        audio only tiny  129k , m4a_dash container, mp4a.40.2@129k (44100Hz), 3.36MiB
+251          webm       audio only tiny  138k , webm_dash container, opus @138k (48000Hz), 3.60MiB
+278          webm       144x144    144p   18k , webm_dash container, vp9@  18k, 25fps, video only, 501.09KiB
+160          mp4        144x144    144p   39k , mp4_dash container, avc1.4d400b@  39k, 25fps, video only, 1.01MiB
+242          webm       240x240    240p   54k , webm_dash container, vp9@  54k, 25fps, video only, 1.40MiB
+133          mp4        240x240    240p   99k , mp4_dash container, avc1.4d400c@  99k, 25fps, video only, 2.57MiB
+134          mp4        360x360    360p   56k , mp4_dash container, avc1.4d4015@  56k, 25fps, video only, 1.46MiB
+243          webm       360x360    360p   94k , webm_dash container, vp9@  94k, 25fps, video only, 2.44MiB
+135          mp4        480x480    480p  107k , mp4_dash container, avc1.4d401e@ 107k, 25fps, video only, 2.79MiB
+244          webm       480x480    480p  174k , webm_dash container, vp9@ 174k, 25fps, video only, 4.51MiB
+136          mp4        720x720    720p  213k , mp4_dash container, avc1.4d401f@ 213k, 25fps, video only, 5.53MiB
+247          webm       720x720    720p  350k , webm_dash container, vp9@ 350k, 25fps, video only, 9.08MiB
+137          mp4        1080x1080  1080p  410k , mp4_dash container, avc1.640020@ 410k, 25fps, video only, 10.64MiB
+248          webm       1080x1080  1080p  642k , webm_dash container, vp9@ 642k, 25fps, video only, 16.66MiB
+18           mp4        360x360    360p  289k , avc1.42001E, 25fps, mp4a.40.2 (44100Hz), 7.50MiB (best)
